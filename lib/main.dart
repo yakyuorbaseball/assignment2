@@ -39,15 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
   double b = 0;
   double c = 0;
 
-  @override
-  void initState(){
-    super.initState();
-  }
 
-  @override
-  void dispose(){
-    super.dispose();
-  }
 
   @override
   Widget build(BuildContext context) {
